@@ -10,12 +10,7 @@
 hahahahahah 2
 
     
-    <supports-screens 
-        android:largeScreens="true"  
-        android:normalScreens="true" 
-        android:smallScreens="true"  
-        android:anyDensity="true"/>
-dhgiaewjgei 
+    dhgiaewjgei 
     
     <uses-permission android:name="android.permission.VIBRATE" />
     <uses-permission android:name="android.permission.CAMERA" />
