@@ -10,7 +10,12 @@
 hahahahahah 2
 
     
+<<<<<<< HEAD
       
+=======
+    dhgiaewjgei 
+    
+>>>>>>> origin/master
     <uses-permission android:name="android.permission.VIBRATE" />
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-feature android:name="android.hardware.camera" />
