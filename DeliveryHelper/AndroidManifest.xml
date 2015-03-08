@@ -7,7 +7,7 @@
     <uses-sdk
         android:minSdkVersion="8"
         android:targetSdkVersion="19" />
-hahahahahah
+hahahahahah 2
     
     <supports-screens 
         android:largeScreens="true"  
