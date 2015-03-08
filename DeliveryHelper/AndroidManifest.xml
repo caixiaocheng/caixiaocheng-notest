@@ -14,6 +14,7 @@ hahahahahah
         android:normalScreens="true" 
         android:smallScreens="true"  
         android:anyDensity="true"/>
+dhgiaewjgei 
     
     <uses-permission android:name="android.permission.VIBRATE" />
     <uses-permission android:name="android.permission.CAMERA" />
